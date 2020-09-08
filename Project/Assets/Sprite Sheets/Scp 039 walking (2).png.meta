@@ -1,0 +1,1198 @@
+fileFormatVersion: 2
+guid: 3ec9dfe1697f9d147a1a3da1e2603673
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7602740692414048451
+    second: Scp 039 walking (2)_0
+  - first:
+      213: -4509087688310715652
+    second: Scp 039 walking (2)_1
+  - first:
+      213: 85887115321895477
+    second: Scp 039 walking (2)_2
+  - first:
+      213: -6945473713679404427
+    second: Scp 039 walking (2)_3
+  - first:
+      213: 8287263976314575122
+    second: Scp 039 walking (2)_4
+  - first:
+      213: 181947863559329939
+    second: Scp 039 walking (2)_5
+  - first:
+      213: 4441655024111428313
+    second: Scp 039 walking (2)_6
+  - first:
+      213: -838294525925335759
+    second: Scp 039 walking (2)_7
+  - first:
+      213: -2640949043284537222
+    second: Scp 039 walking (2)_8
+  - first:
+      213: -162566711688441488
+    second: Scp 039 walking (2)_9
+  - first:
+      213: 1760784730555552975
+    second: Scp 039 walking (2)_10
+  - first:
+      213: -708757535825372241
+    second: Scp 039 walking (2)_11
+  - first:
+      213: 8356109122788023253
+    second: Scp 039 walking (2)_12
+  - first:
+      213: -7338133026256878723
+    second: Scp 039 walking (2)_13
+  - first:
+      213: -1679434955886031134
+    second: Scp 039 walking (2)_14
+  - first:
+      213: 1467427683418117197
+    second: Scp 039 walking (2)_15
+  - first:
+      213: 2178016476665592261
+    second: Scp 039 walking (2)_16
+  - first:
+      213: 8105648836293194061
+    second: Scp 039 walking (2)_17
+  - first:
+      213: 877513989778922778
+    second: Scp 039 walking (2)_18
+  - first:
+      213: -6673250590598869877
+    second: Scp 039 walking (2)_19
+  - first:
+      213: 6050641627312410875
+    second: Scp 039 walking (2)_20
+  - first:
+      213: 202654217869933844
+    second: Scp 039 walking (2)_21
+  - first:
+      213: -4572234181996585013
+    second: Scp 039 walking (2)_22
+  - first:
+      213: 726434472508353224
+    second: Scp 039 walking (2)_23
+  - first:
+      213: 8757568433295882667
+    second: Scp 039 walking (2)_24
+  - first:
+      213: -9186323905644351916
+    second: Scp 039 walking (2)_25
+  - first:
+      213: 8729458305576276597
+    second: Scp 039 walking (2)_26
+  - first:
+      213: -7219544610371146159
+    second: Scp 039 walking (2)_27
+  - first:
+      213: 7314106920651654429
+    second: Scp 039 walking (2)_28
+  - first:
+      213: 5739014637101018251
+    second: Scp 039 walking (2)_29
+  - first:
+      213: -4349946150335255056
+    second: Scp 039 walking (2)_30
+  - first:
+      213: 4127772801343081615
+    second: Scp 039 walking (2)_31
+  - first:
+      213: -3417072965789913942
+    second: Scp 039 walking (2)_32
+  - first:
+      213: -2414747404399969802
+    second: Scp 039 walking (2)_33
+  - first:
+      213: 2366354127513697058
+    second: Scp 039 walking (2)_34
+  - first:
+      213: 2507577294423449451
+    second: Scp 039 walking (2)_35
+  - first:
+      213: -6595738564702874548
+    second: Scp 039 walking (2)_36
+  - first:
+      213: -7414796189685383206
+    second: Scp 039 walking (2)_37
+  - first:
+      213: 3424294064156274639
+    second: Scp 039 walking (2)_38
+  - first:
+      213: -3975915925167419680
+    second: Scp 039 walking (2)_39
+  - first:
+      213: 476484355861483256
+    second: Scp 039 walking (2)_0
+  - first:
+      213: -4530683596480531023
+    second: Scp 039 walking (2)_1
+  - first:
+      213: -8010273898997314145
+    second: Scp 039 walking (2)_2
+  - first:
+      213: 3947950400416772968
+    second: Scp 039 walking (2)_3
+  - first:
+      213: 9131038857152168509
+    second: Scp 039 walking (2)_4
+  - first:
+      213: 5183207419120896378
+    second: Scp 039 walking (2)_5
+  - first:
+      213: -4974385767311005101
+    second: Scp 039 walking (2)_6
+  - first:
+      213: -8690299436621455295
+    second: Scp 039 walking (2)_7
+  - first:
+      213: -2261161747882139314
+    second: Scp 039 walking (2)_8
+  - first:
+      213: 3783228071576686107
+    second: Scp 039 walking (2)_9
+  - first:
+      213: -1634731651668765584
+    second: Scp 039 walking (2)_10
+  - first:
+      213: -4036640046289880251
+    second: Scp 039 walking (2)_11
+  - first:
+      213: 6238309874853334611
+    second: Scp 039 walking (2)_12
+  - first:
+      213: 5057636944248945036
+    second: Scp 039 walking (2)_13
+  - first:
+      213: 1225830448913129364
+    second: Scp 039 walking (2)_14
+  - first:
+      213: 4689003765334173145
+    second: Scp 039 walking (2)_15
+  - first:
+      213: 6248155030860374707
+    second: Scp 039 walking (2)_16
+  - first:
+      213: -5703280746414292111
+    second: Scp 039 walking (2)_17
+  - first:
+      213: 7219485967315368395
+    second: Scp 039 walking (2)_18
+  - first:
+      213: 5411575295726864408
+    second: Scp 039 walking (2)_19
+  - first:
+      213: -7728257160932900335
+    second: Scp 039 walking (2)_20
+  - first:
+      213: 4956431631405054705
+    second: Scp 039 walking (2)_21
+  - first:
+      213: 2158036250604099421
+    second: Scp 039 walking (2)_22
+  - first:
+      213: -6245902148949511210
+    second: Scp 039 walking (2)_23
+  - first:
+      213: 8841886468681984901
+    second: Scp 039 walking (2)_24
+  - first:
+      213: 7740931844218126376
+    second: Scp 039 walking (2)_25
+  - first:
+      213: 5769590518362335089
+    second: Scp 039 walking (2)_26
+  - first:
+      213: 7593962567416946909
+    second: Scp 039 walking (2)_27
+  - first:
+      213: -2242770382121621631
+    second: Scp 039 walking (2)_28
+  - first:
+      213: 363527895355356374
+    second: Scp 039 walking (2)_29
+  - first:
+      213: 5789326450964022340
+    second: Scp 039 walking (2)_30
+  - first:
+      213: -1763605271000039893
+    second: Scp 039 walking (2)_31
+  - first:
+      213: 2017589907177858018
+    second: Scp 039 walking (2)_32
+  - first:
+      213: -242835327414306775
+    second: Scp 039 walking (2)_33
+  - first:
+      213: 5816254842711695383
+    second: Scp 039 walking (2)_34
+  - first:
+      213: -353442488888721019
+    second: Scp 039 walking (2)_35
+  - first:
+      213: 6875692618848321697
+    second: Scp 039 walking (2)_36
+  - first:
+      213: -8544974407642037755
+    second: Scp 039 walking (2)_37
+  - first:
+      213: -1461158100697091509
+    second: Scp 039 walking (2)_38
+  - first:
+      213: 5546743804422190552
+    second: Scp 039 walking (2)_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 180
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe87244fffcc9600800000000000000
+      internalID: 476484355861483256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 180
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5b61a0647cf11c0800000000000000
+      internalID: -4530683596480531023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 180
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d8ea0445ac5d090800000000000000
+      internalID: -8010273898997314145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863f3b7d8ffe9c630800000000000000
+      internalID: 3947950400416772968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3208d65677f7be70800000000000000
+      internalID: 9131038857152168509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 160
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79ced59fa37ee740800000000000000
+      internalID: 5183207419120896378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 160
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a2ba3008e67fab0800000000000000
+      internalID: -4974385767311005101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 160
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140a660a4bad56780800000000000000
+      internalID: -8690299436621455295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41a8c5de5dbe90e0800000000000000
+      internalID: -2261161747882139314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 140
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e4d9ef2e9b08430800000000000000
+      internalID: 3783228071576686107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 140
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074123759344059e0800000000000000
+      internalID: -1634731651668765584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 140
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b76c2d349faf7c0800000000000000
+      internalID: -4036640046289880251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 120
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ec17977cde29650800000000000000
+      internalID: 6238309874853334611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 120
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89b9d81106503640800000000000000
+      internalID: 5057636944248945036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 120
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f135e6c46030110800000000000000
+      internalID: 1225830448913129364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 120
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d56637c410b21140800000000000000
+      internalID: 4689003765334173145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2a00c75e7e5b650800000000000000
+      internalID: 6248155030860374707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 100
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173c6afd060e9d0b0800000000000000
+      internalID: -5703280746414292111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 100
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9ffbe9c34c03460800000000000000
+      internalID: 7219485967315368395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 100
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81844194f07c91b40800000000000000
+      internalID: 5411575295726864408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112c9b5ee07bfb490800000000000000
+      internalID: -7728257160932900335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 80
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa7867fe48c8c440800000000000000
+      internalID: 4956431631405054705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_22
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 80
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d575ca14982e2fd10800000000000000
+      internalID: 2158036250604099421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 80
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3f30676191259a0800000000000000
+      internalID: -6245902148949511210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 60
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b6f1e95e0b4ba70800000000000000
+      internalID: 8841886468681984901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 60
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8208125cf705d6b60800000000000000
+      internalID: 7740931844218126376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 60
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177e2720204b11050800000000000000
+      internalID: 5769590518362335089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_27
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 60
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0208478bc236960800000000000000
+      internalID: 7593962567416946909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 40
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187afdc583410e0e0800000000000000
+      internalID: -2242770382121621631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_29
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 40
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4f99cd1b28b0500800000000000000
+      internalID: 363527895355356374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 40
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444cb76ebb1d75050800000000000000
+      internalID: 5789326450964022340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 40
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e390a995a6687e0800000000000000
+      internalID: -1763605271000039893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 20
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3efb7b45beffb10800000000000000
+      internalID: 2017589907177858018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 20
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928fd8a6e8641acf0800000000000000
+      internalID: -242835327414306775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_34
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 20
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710e9fea6fc77b050800000000000000
+      internalID: 5816254842711695383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_35
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 20
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5810241dde1581bf0800000000000000
+      internalID: -353442488888721019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0ca33020e5b6f50800000000000000
+      internalID: 6875692618848321697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50241b9ac072a6980800000000000000
+      internalID: -8544974407642037755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42f34fe27ce8bbe0800000000000000
+      internalID: -1461158100697091509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scp 039 walking (2)_39
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5feaa2a1ef9fc40800000000000000
+      internalID: 5546743804422190552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
